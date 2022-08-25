@@ -20,5 +20,11 @@ public class PetShop {
         pets.add("Snowball");
 //        List<Integer> pets = new List<>();
 
+        /*
+        NEW UPDATE: SOLD FIDO, ADDED WHISKERS
+         */
+        pets.remove("Fido");
+        pets.add("Whiskers");
+
     }
 }
